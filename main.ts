@@ -8,4 +8,5 @@
 basic.clearScreen()
 basic.pause(1000)
 
-basic.showString('p =' + (2 * (5 + 3)).toString() )
+basic.showString("a rectangle has dimensions of 5cm and 3cm.")
+basic.showString('the perimeter of a rectangle is' + (2 * (5 + 3)).toString() + 'cm' )
