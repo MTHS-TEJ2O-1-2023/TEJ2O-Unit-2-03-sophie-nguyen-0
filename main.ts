@@ -5,4 +5,7 @@
  * This program does math
 */
 
-basic.showString('Hello, World!')
+basic.clearScreen()
+basic.pause(1000)
+
+basic.showString('p =' + (2 * (5 + 3)).toString() )
